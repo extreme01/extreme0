@@ -212,6 +212,23 @@ function create_config( )
     "inrealm",
     "ingroup",
     "inpm",
+    "calc',
+    "chatbot",
+    "echo",
+    "feed",
+    "file",
+    "filterorg",
+    "filter",
+    "google",
+    "info",
+    "time",
+    "quran",
+    "qr",
+    "pok",
+    "plugin",
+    "linkpv",
+    "loc",
+    "leave",
     "banhammer",
     "stats",
     "anti_spam",
@@ -232,29 +249,23 @@ function create_config( )
     "id",
     "tagall"
     },
-    sudo_users = {122774063},--Sudo users
+    sudo_users = {179983320},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Sbss Bot V2 Beta
+    about_text = [[extreme V1.5
     An Advanced Anti Spam Bot Forked On TeleSeed
     
     Develpoed By:
-    @Mr_Ah_S
-    Manager:
-    @amiirdada
-    Founder:
-    @AmirQuick
+    @unkownhacker
+    
     
     Special Thank To:
-    Mehr Pouya
-    Arman
     IM/-\N
-    Creed Is Dead
     
-    Powered By @Sbss_Team
+    Powered By @extremerobos
     
     #Open Source
-    https://github.com/SbssTeam/Sbss
+    https://github.com/extreme01/extreme0
 ]],
     help_text_realm = [[
 See Patterns In Github
@@ -332,7 +343,7 @@ __________________________
 —---------------------—
 نیاز نیست از '!' و '/' استفاده کنید*
 _______________________________
-Writed by SBSS Team
+Writed by @unkownhacker ~~ ~~ 00:00
 ]]
   }
   serialize_to_file(config, './data/config.lua')
